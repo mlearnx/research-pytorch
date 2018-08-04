@@ -8,6 +8,7 @@ c = b.numpy()                # convert torch tensor to numpy array
 ```
 
 ## Models
+https://github.com/MorvanZhou/PyTorch-Tutorial
 
 ### Linear Regression Model
 ```
